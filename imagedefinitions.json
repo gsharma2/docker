@@ -1,6 +1,6 @@
 [
     {
-        "name": "cici-task",
+        "name": "web1",
         "imageUri": "004606621552.dkr.ecr.us-east-1.amazonaws.com/dockerrepo:latest"
     }
 ]

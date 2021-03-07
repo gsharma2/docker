@@ -1,6 +1,6 @@
-FROM centos:centos6
+FROM centos:centos7
 
-MAINTAINER VarunMnaik
+MAINTAINER Geetanjali
 
 RUN yum -y install httpd
 
